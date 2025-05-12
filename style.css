@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(to right, #e3f2fd, #ffffff);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.btn {
+  border-radius: 20px;
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
